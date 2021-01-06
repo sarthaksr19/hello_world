@@ -1,2 +1,2 @@
-print("Hello World")
-print("Nusta Love")
+print("Hello World\n\tNusta Love")
+
